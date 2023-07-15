@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "aws",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-aws-dev-230425-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/21a66415301a154e910a2091468f908643c9d502"
+}
